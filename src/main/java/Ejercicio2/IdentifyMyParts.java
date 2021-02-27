@@ -23,7 +23,7 @@ public class IdentifyMyParts {
         de obtener el valor de esa area podemos observar que cambio a 2 y esto se debe
         a que como al momento que se stablece en la clase es estatico, esto hace que se
         compartan todas las estancias de x con el ultimo valor asignado al mismo, en este caso
-        es el 2, por eso al buscar el valor de x en cada uno de los objetos que creamos nos da 2
+        es el 2, por eso al buscar el valor de x en cada uno de los objetos que creamos nos da 2z|
         y tambien si lo buscamos dentro de la clase nos da 2, como se ve en la ultima parte.
         Estó cambiaria con el hecho que cambies el ultimo valor y todos compartiran ese valor.
          */
